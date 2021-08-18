@@ -1,0 +1,46 @@
+.header {
+	background-color: green;
+	border: 1px #E51E5B solid;
+	text-align: center;
+}
+
+.cont1{
+	background-color: orange;
+	border: 1px #40E4E2 solid;
+	text-align: center;
+}
+
+.cont2{
+	background-color: #E826EA;
+	border: 1px ##40E4E2 solid;
+	text-align: center;
+}
+
+.cont3{
+	background-color: #F07E0F;
+	border: 1px #fff solid;
+	text-align: center;
+}
+
+.cont4{
+	background-color: #F07E0F;
+	border: 1px #fff solid;
+	text-align: center;
+}
+
+.azul{
+	background-color: #2F73EF;
+	border: 1px #fff solid;
+	text-align: center;
+}
+
+.footer{
+	background-color: green;
+	border: 1px #E51E5B solid;
+	text-align: center;	
+}
+
+.columna {
+	background-color: #82c09a;
+	border: 1px #94778b solid;
+}
